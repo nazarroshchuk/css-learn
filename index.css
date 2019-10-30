@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding: 0;
+}
+
+h1 {
+color: red;
+margin-left: 50px;
+padding: 20px;
+border: solid;
+border-color:green;
+}
+
+p {
+    background-color:indianred;
+}
+
+#orange {
+
+    color: orange;
+}
+
+p:hover {
+
+    text-decoration: underline;
+}
+
+p::first-letter {
+
+    
+}
